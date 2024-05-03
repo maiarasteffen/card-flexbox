@@ -1,7 +1,7 @@
-# NFT Card - Solução do desafio do Frontend Mentor 
+# Card com Flexbox - Solução do exercício do CSS Avançado - Flexbox 
 
 
-Esta é uma solução para o [desafio do componente de cartão de visualização NFT no Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação através da construção de projetos realistas. 
+Esta é uma solução para o exercício proposto na aula de CSS Avançado - Flexbox. Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação através da construção de projetos realistas. 
 
 ## Índice
 
@@ -32,7 +32,7 @@ O desafio constiste em:
 ### Link
 
 - Código do desenvolvimento: [NFT Card](https://github.com/maiarasteffen/card-flexbox)
-- Front do projeto: [Front]()
+- Front do projeto: [Front](https://timely-cocada-db815d.netlify.app/)
 
 ## Meu processo
 
